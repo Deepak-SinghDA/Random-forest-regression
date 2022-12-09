@@ -1,10 +1,10 @@
 # car price prediction with random forest regression
 # - Technology
 - Using numpy  
--- pandas
+- pandas
 - matplotlib, seaborn, Plotily 
 + sklearn 
-* About DATASET 
+# About DATASET 
 - Analysed 4340 car data by Random forest regression
 This Notebook will cover the following -
 1. Data cleaning
