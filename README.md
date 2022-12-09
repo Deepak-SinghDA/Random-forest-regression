@@ -1,5 +1,5 @@
 # car price prediction with random forest regression
--* Technology
+# - Technology
 - Using numpy  
 -- pandas
 - matplotlib, seaborn, Plotily 
